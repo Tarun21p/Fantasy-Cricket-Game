@@ -1,12 +1,16 @@
 # Fantasy-Cricket-Game
-This is a fantasy Cricket Game. It was built as part of Internshala Programming with Python Training Contest and won the first prize in the contest. The game allows you to create a virtual team of cricket players and calculate their score points on how the players perform in different matches. For simplicity, only one match has been listed. You can create different teams of players and find their score in the match. The application is developed with Python programming language and SQLite database. The game UI was designed with QT Designer.
 
-Please use this only as a guideline for your project. You may take inspiration from this project but PLEASE DON'T UPLOAD THE SAME FOR YOUR FINAL PROJECT IN INTERNSHALA PYTHON TRAININGS. YOUR FINAL PROJECT MUST BE ENTIRELY YOUR OWN ORIGINAL WORK.
+Fantasy Cricket Game GUI using Python(PyQt5) and sqlite3 is an online game where we can create a virtual cricket Team of Real Cricket Players.
 
-![Fantasy Cricket Game](/IMAGES/logo.png)
+Programming Language Used: Python
 
-GitHub repository for this project: https://github.com/jincy-p-janardhanan/Fantasy-Cricket-Game
+Fantasy Cricket Game is a game where we can create a virtual cricket team of real cricket players. Each player has their own Points. There will be a limited no. of points to select 11 players, if we don’t have enough points we can’t select a player if his points are more and the team is evaluated using points of each player based on their performance internally. To win a tournament, we must try and get the maximum points and the №1 rank amongst other participants.
 
-Find me on GitHub: https://github.com/jincy-p-janardhanan
+You can check the DataBase created for this Game named cricket.db.
 
-Find me on LinkedIn: https://www.linkedin.com/in/jincy-p-janardhanan/
+To execute this program, we need to install PyQt5 which is a Python GUI Library.
+And that’s, we are all set to run this program.
+
+Screenshot :
+
+![image](https://github.com/Tarun21p/Fantasy-Cricket-Game/assets/127124654/83c4a10c-afae-4592-b703-04900d859e48)
